@@ -1,1 +1,1 @@
-[{"title":"notes app","body":"getting notes here with something new"},{"title":"notes app1","body":"getting notes here with "},{"title":"notes app2","body":"getting notes"},{"title":"notes app2","body":"hello"},{"title":"new","body":"body"},{"title":"new","body":"body"},{"title":"note1","body":"body1"},{"title":"note1","body":"body1"},{"title":"note1","body":"body1"},{"title":"note1","body":"body1"}]
+[{"title":"notes app","body":"getting notes here with something new"},{"title":"notes app1","body":"getting notes here with "}}]
